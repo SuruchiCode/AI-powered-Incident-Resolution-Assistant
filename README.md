@@ -41,7 +41,6 @@ LINK- https://drive.google.com/file/d/1qB994BNbVXdT_y9QCEyufVXyVJgrHCJO/view?usp
 - **ChromaDB:** Vector database for efficient similarity search
 - **Streamlit:** Rapid UI development for the chatbot interface
 - **Pandas:** Data cleaning and preparation
-- **Docker:** Containerization for cloud deployment
 
 ---
 
