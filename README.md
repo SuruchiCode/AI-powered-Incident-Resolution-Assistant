@@ -59,7 +59,6 @@ LINK- https://drive.google.com/file/d/1qB994BNbVXdT_y9QCEyufVXyVJgrHCJO/view?usp
 1. **Clone the repository**
    ```bash
    git clone https://github.com/SuruchiCode/AI-powered-Incident-Resolution-Assistant.git
-   cd incident-resolution-assistant
    ```
 
 2. **Install dependencies**
