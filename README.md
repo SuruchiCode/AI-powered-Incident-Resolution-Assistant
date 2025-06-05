@@ -5,6 +5,8 @@
 This project is an AI-powered assistant designed to help IT support teams resolve incident tickets faster and more accurately. It leverages historical ticket data, semantic search, and conversational AI to recommend solutions, retrieve similar incidents, and answer troubleshooting questions in natural language. The solution is modular, cloud-ready, and easily deployable on Microsoft Azure.
 
 ---
+![Screenshot 2025-06-04 175519](https://github.com/user-attachments/assets/babe6152-6c1a-46d1-9cf9-d0b28ea7712b)
+
 
 ## Features
 
