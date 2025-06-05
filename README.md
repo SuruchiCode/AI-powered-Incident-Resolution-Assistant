@@ -9,7 +9,7 @@ Screenshots:
 ![Screenshot 2025-06-05 181352](https://github.com/user-attachments/assets/c4326063-33a9-4913-b6e2-63ba45671690)
 ![Screenshot 2025-06-05 181233](https://github.com/user-attachments/assets/c3955810-aea0-498d-bf29-6251b8e15999)
 ![Screenshot 2025-06-05 181203](https://github.com/user-attachments/assets/7aa87810-d41d-4a6b-bb76-7b16cd0a70d2)
-![Screenshot 2025-06-05 181108](https://github.com/user-attachments/assets/59b83acb-c382-47f3-a0e4-80faddbeba9e)
+
 
 
 ## Features
