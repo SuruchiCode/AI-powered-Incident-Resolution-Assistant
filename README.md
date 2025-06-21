@@ -102,15 +102,6 @@ LINK- https://drive.google.com/file/d/1qB994BNbVXdT_y9QCEyufVXyVJgrHCJO/view?usp
 
 ---
 
-## How to Deploy on Microsoft Azure
-
-- **Containerize the app** using Docker.
-- **Deploy containers** to Azure App Service or Azure Container Instances.
-- **Store data** in Azure Blob Storage and use Azure OpenAI if available for LLM features.
-- **Integrate** with Azure DevOps for CI/CD and monitoring.
-
----
-
 ## Example Usage
 
 1. **Enter a new incident description:**  
@@ -137,4 +128,3 @@ LINK- https://drive.google.com/file/d/1qB994BNbVXdT_y9QCEyufVXyVJgrHCJO/view?usp
 ## Acknowledgments
 
 - Open-source community for Ollama, FastAPI, ChromaDB, and Sentence Transformers.
-- Microsoft Azure for cloud platform support.
